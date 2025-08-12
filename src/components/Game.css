@@ -1,0 +1,40 @@
+*{
+    color: white;
+}
+
+.wordContainer{
+    margin: 1.5em;
+    padding: 1.5em;
+    border: 20px solid black;
+    display: flex;
+}
+
+.letter, .blankSquare{
+    color: black;
+    font-size: 36px;
+    line-height: 1.5;
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    text-transform: uppercase;
+    align-content: center;
+    background-color: white;
+    font-weight: bold;
+}
+
+.letterContainer p{
+ margin-bottom: 1.2em;
+}
+
+.letterContainer form{
+    display: flex;
+    justify-content: center;
+}
+
+.letterContainer input{
+    color: black;
+    height: 50px;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+}
