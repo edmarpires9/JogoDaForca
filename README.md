@@ -1,6 +1,6 @@
 # Jogo da Forca em React
 
-Welcome to the Hangman Game project developed using React! This document provides an overview of the project, its features, and instructions on how to run the game.
+Fiz esse joguinho simples, apenas para praticar um pouco de React e JavaScript
 
 ## Table of Contents
 
